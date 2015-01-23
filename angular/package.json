@@ -39,5 +39,8 @@
     "gulp-util": "^3.0.1",
     "jshint-stylish": "^1.0.0",
     "proxy-middleware": "^0.6.0"
+  },
+  "dependencies": {
+    "gulp-install": "^0.2.0"
   }
 }
